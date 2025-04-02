@@ -1,0 +1,92 @@
+books:
+  - title: "OKR wirkungsvoll einführen und nutzen"
+    author: "Urs Reupke & Steffi Baginsky"
+    publisher: "dpunkt.verlag"
+    year: 2024
+    isbn: "978-3-98889-014-6"
+    link: "https://dpunkt.de/produkt/okr-wirkungsvoll-einfuehren-und-nutzen/"
+    summary: "An experiental introduction to objectives and key results."
+  - title: "Reiß das Ruder rum!"
+    author: "L. David Marquet. Translated by Ralf Lethmate, Urs Reupke & Wolfgang Wiedenroth"
+    publisher: "dpunkt.verlag"
+    year: 2020
+    isbn: "978-3-86490-737-1"
+    link: "https://dpunkt.de/produkt/reiss-das-ruder-rum/"
+    summary: "A masterclass on leadership."
+  - title: "The People's Scrum (2nd Ed.)"
+    author: "Tobias Mayer, Olaf Lewitz, Urs Reupke & Sandra Sieroux"
+    publisher: "dpunkt.verlag"
+    year: 2017
+    isbn: "978-3-86490-533-9"
+    link: "https://dpunkt.de/produkt/the-peoples-scrum/"
+    summary: "Philosophical essays on Scrum and organisation."
+
+articles:
+  - title: "Advanced Data Analysis"
+    author: "Your Name"
+    publication: "Journal of Data Science"
+    year: 2024
+    volume_issue: "Vol. 10, Issue 2"
+    link: "https://example.com/article"
+    abstract: "An abstract of the article."
+  - title: "Web Development Trends"
+    author: "Your Name"
+    publication: "Online Magazine"
+    year: 2023
+    volume_issue: null
+    link: "https://example.com/web-dev"
+    abstract: "A summary of web development trends."
+
+## Scrum Master Checklist 
+# https://scrummasterchecklist.org/
+
+talks:
+  - title: "Wann werden wir fertig? – Vorhersagen ohne Schätzen"
+    event: "OOP 2025"
+    location: "Munich, Germany"
+    date: "2025-03-07"
+    description: "Basics of statistical forecasting for product delivery."
+    link: "/assets/slides/LeanForecasting.pdf"
+  - title: "Von Mitläufern zu Mitdenkern – Kultur der Business Agilität"
+    event: "Solutions:Essentials 2024"
+    location: "Hamburg, Germany"
+    date: "2024-07-05"
+    description: "How leadership influences business capabilities."
+    link: "/assets/slides/BusinessAgility.pdf"
+  - title: "Aufräumen mit OKR – Eine Einführung in die Methode"
+    event: "OKR Day 2024"
+    location: "Online"
+    date: "2024-02-29"
+    description: "An introduction to OKR."
+    link: "/assets/slides/OkrIntroduction.pdf"
+  - title: "Von Napoleon zu OKR – Drei Ideen zu Alignment"
+    event: "OOP 2023"
+    location: "Munich, Germany"
+    date: "2023-07-04"
+    description: "Historic origins of OKR and Mission Command, lessons for today's leadership."
+    link: "/assets/slides/OkrMissionCommand.pdf"
+  - title: "eXtreme Programming – Ein Rückblick"
+    event: "Berlin Days of Software Engineering 2013"
+    location: "Berlin, Germany"
+    date: "2013-09-27"
+    description: "Reflections on eXtreme Programming, 15 years later. (with Holger Bohlmann)"
+    link: "/assets/slides/XP.pdf"
+    
+
+    # Atlassian UG OKR
+    # # Folien zum Vortrag "Nen-Sagen für Product Owner" von Urs Reupke und Stefan Roock von der OOP-Konferenz in München am 22.01.2019. Roadmaps ...
+    # Leadership Day: Vision OKR
+    # Ralf & Urs PO Day
+# Agile Leader Day
+# Die Online-Konferenz von Heise – 24. Juni 2021
+# Reiß das Ruder rum – Von Gefolgsleuten zu Mitgestaltern
+# Ralf Lethmate & Urs Reupke  
+    # T4AT
+
+    # Shades of Scrum (Urs Reupke, Stefan Roock), SEACON 2015 in Hamburg
+
+    ## Podcasts
+   #  Team Alignment mit OKR - Urs Reupk YouTube · Richard Seidl
+# 3 Jan 2024 - 
+# https://www.projectmanagement.com/blog-post/55063/The-Core-Cycle-of-Agile-Product-Development-w--Urs-Reupke
+# https://www.youtube.com/watch?v=jYzw8B_KYuQ&themeRefresh=1
