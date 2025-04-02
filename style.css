@@ -1,0 +1,38 @@
+/* Basic CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif; /* You can change this */
+    line-height: 1.6;
+}
+
+nav {
+    background-color: #f0f0f0; /* Light gray background */
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333; /* Dark gray text */
+}
+
+section {
+    padding: 50px 20px;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+/* Add responsive design later */
