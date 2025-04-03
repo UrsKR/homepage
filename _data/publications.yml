@@ -22,6 +22,13 @@ books:
     summary: "Essays on Scrum and organisations. Some actionable, some philosophical."
 
 articles:
+  - title: "Strategisches Alignment – klassisch oder modern?"
+    author: "Urs Reupke"
+    publication: "agile review"
+    year: 2023
+    issue: 2
+    link: "/assets/agilereview/StrategicAlignment.pdf"
+    abstract: "Lessons for leadership from the history of OKR. A companion piece to my talk on Napoleon and von Blücher."  
   - title: "Scrum Master Checklist"
     author: "Michael James. Translated by Urs Reupke & Peter Rössler"
     publication: "Self-published"
@@ -30,9 +37,9 @@ articles:
     abstract: "A checklist for Scrum Masters. The clue is in the title."
   - title: "Alles Gute ist leicht: Die Crystal-Methodenfamilie"
     author: "Urs Reupke"
-    publication: "Object Spektrum"
+    publication: "Objektspektrum"
     year: 2011
-    issue_volume: 5
+    issue: 5
     link: "/assets/articles/Crystal.pdf"
     abstract: "An overview of Alistair Cockburn's Crystal approach to methodology."
   - title: "Kontextbewusstsein: Ein Überblick"

@@ -28,7 +28,7 @@ Articles published in journals, magazines, and online publications.
 {% for article in site.data.publications.articles %}
 _{{ article.author }}_  
 **{{ article.title }}**  
-{{ article.publication }}, {{ article.year }}. {% if article.issue %} Issue {{article.issue }} {% endif %}  
+{{ article.publication }}{% if article.issue %} {{ article.issue }}/{% else %}, {% endif %}{{ article.year }}  
 {{ article.abstract }}  
 [Read the article]({{ article.link }})
 
