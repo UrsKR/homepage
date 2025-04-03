@@ -28,13 +28,76 @@ articles:
     year: 2023
     issue: 2
     link: "/assets/agilereview/StrategicAlignment.pdf"
-    abstract: "Lessons for leadership from the history of OKR. A companion piece to my talk on Napoleon and von Blücher."  
+    abstract: "Lessons for leadership from the history of OKR. A companion piece to my talk on Napoleon and von Blücher at T4AT22."  
+  - title: "Agiles Backlog-Management"
+    author: "Urs Reupke & Stefan Roock"
+    publication: "agile review"
+    year: 2023
+    issue: XMAS
+    link: "/assets/agilereview/Backlogmanagement.pdf"
+    abstract: "A deep dive in structuring and working with the product backlog as a product manager."  
+  - title: "Kurz & Knapp: Das Entwicklungsteam"
+    author: "Urs Reupke"
+    publication: "agile review"
+    year: 2021
+    issue: Sonderausgabe
+    link: "/assets/agilereview/ShortsDevelopers.pdf"
+    abstract: "A short treatise on developers in Scrum.
+  - title: "Kurz & Knapp: Empirische Prozesskontrolle"
+    author: "Urs Reupke"
+    publication: "agile review"
+    year: 2021
+    issue: 2
+    link: "/assets/agilereview/ShortsEmpiricProcess.pdf"
+    abstract: "A short treatise on empiric process control.
+  - title: "Kurz & Knapp: Product Backlog Refinement"
+    author: "Urs Reupke"
+    publication: "agile review"
+    year: 2021
+    issue: 2
+    link: "/assets/agilereview/ShortsRefinement.pdf"
+    abstract: "A short treatise on product backlog refinement." 
+  - title: "Neinsagen für Product Owner"
+    author: "Urs Reupke & Stefan Roock"
+    publication: "agile review"
+    year: 2021
+    issue: 1
+    link: "/assets/agilereview/SayNo.pdf"
+    abstract: "Techniques to avoid meeting overload."  
+  - title: "Darf es etwas weniger sein? – Wenn Meetings den Kalender sprengen"
+    author: "Gregor Sälker & Urs Reupke"
+    publication: "agile review"
+    year: 2021
+    issue: 1
+    link: "/assets/agilereview/FewerMeetings.pdf"
+    abstract: "Why denying requests is a core skill for product managers, leading to better products and more satisfied stakeholders. A companion piece to our talk at OOP19."  
+  - title: "Über Geld redet man, nicht?"
+    author: "Urs Reupke"
+    publication: "agile review"
+    year: 2018
+    issue: 1
+    link: "/assets/agilereview/Salary2018.pdf"
+    abstract: "A report on the findings of a survey on agilists' salaries, conducted late 2017. Of historical interest only."  
+  - title: "Die Neuerungen im Scrum Guide 2017"
+    author: "Urs Reupke & Henning Wolf"
+    publication: "agile review"
+    year: 2018
+    issue: 1
+    link: "/assets/agilereview/ScrumGuide2017.pdf"
+    abstract: "A comparative review of changes in 2017's revision of the Scrum Guide."  
   - title: "Scrum Master Checklist"
     author: "Michael James. Translated by Urs Reupke & Peter Rössler"
     publication: "Self-published"
     year: 2015
     link: "https://scrummasterchecklist.org/"
     abstract: "A checklist for Scrum Masters. The clue is in the title."
+  - title: "Antifr-agil"
+    author: "Urs Reupke & Sandra Sieroux"
+    publication: "agile review"
+    year: 2014
+    issue: 1
+    link: "/assets/agilereview/Antifragile.pdf"
+    abstract: "A light introduction to N.N. Taleb's idea of antifragility."
   - title: "Alles Gute ist leicht: Die Crystal-Methodenfamilie"
     author: "Urs Reupke"
     publication: "Objektspektrum"
@@ -48,15 +111,6 @@ articles:
     year: 2003
     link: "https://publikationen.bibliothek.kit.edu/4092003"
     abstract: "A technical paper on context aware computer systems."
-
-# Antifragil
-# OKR/Napoleon
-# 3x Agil Kurz und Knapp
-# Neinsagen
-# weniger meetings
-# Backlog management
-# SCrum Guide Update
-# gehalt
 
 talks:
   - title: "Wann werden wir fertig? – Vorhersagen ohne Schätzen"
