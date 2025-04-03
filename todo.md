@@ -11,6 +11,8 @@
 (A) Blog Page: Old content
 (C) Recipes link
 (C) Qi Kung link
+(D) Command by negation
+(D) linkedin
 
 * Love teaching and workshopping
 * Love gaming
