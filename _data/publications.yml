@@ -42,14 +42,14 @@ articles:
     year: 2021
     issue: Sonderausgabe
     link: "/assets/agilereview/ShortsDevelopers.pdf"
-    abstract: "A short treatise on developers in Scrum.
+    abstract: "A short treatise on developers in Scrum."
   - title: "Kurz & Knapp: Empirische Prozesskontrolle"
     author: "Urs Reupke"
     publication: "agile review"
     year: 2021
     issue: 2
     link: "/assets/agilereview/ShortsEmpiricProcess.pdf"
-    abstract: "A short treatise on empiric process control.
+    abstract: "A short treatise on empiric process control."
   - title: "Kurz & Knapp: Product Backlog Refinement"
     author: "Urs Reupke"
     publication: "agile review"
