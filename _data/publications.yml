@@ -19,26 +19,37 @@ books:
     year: 2017
     isbn: "978-3-86490-533-9"
     link: "https://dpunkt.de/produkt/the-peoples-scrum/"
-    summary: "Philosophical essays on Scrum and organisation."
+    summary: "Essays on Scrum and organisations. Some actionable, some philosophical."
 
 articles:
-  - title: "Advanced Data Analysis"
-    author: "Your Name"
-    publication: "Journal of Data Science"
-    year: 2024
-    volume_issue: "Vol. 10, Issue 2"
-    link: "https://example.com/article"
-    abstract: "An abstract of the article."
-  - title: "Web Development Trends"
-    author: "Your Name"
-    publication: "Online Magazine"
-    year: 2023
-    volume_issue: null
-    link: "https://example.com/web-dev"
-    abstract: "A summary of web development trends."
+  - title: "Scrum Master Checklist"
+    author: "Michael James. Translated by Urs Reupke & Peter Rössler"
+    publication: "Self-published"
+    year: 2015
+    link: "https://scrummasterchecklist.org/"
+    abstract: "A checklist for Scrum Masters. The clue is in the title."
+  - title: "Alles Gute ist leicht: Die Crystal-Methodenfamilie"
+    author: "Urs Reupke"
+    publication: "Object Spektrum"
+    year: 2011
+    issue_volume: 5
+    link: "/assets/articles/Crystal.pdf"
+    abstract: "An overview of Alistair Cockburn's Crystal approach to methodology."
+  - title: "Kontextbewusstsein: Ein Überblick"
+    author: "Urs Reupke"
+    publication: "Paar/Szeder[Hrsg.]: Grundlagen des Autonomen Rechnens"
+    year: 2003
+    link: "https://publikationen.bibliothek.kit.edu/4092003"
+    abstract: "A technical paper on context aware computer systems."
 
-## Scrum Master Checklist 
-# https://scrummasterchecklist.org/
+# Antifragil
+# OKR/Napoleon
+# 3x Agil Kurz und Knapp
+# Neinsagen
+# weniger meetings
+# Backlog management
+# SCrum Guide Update
+# gehalt
 
 talks:
   - title: "Wann werden wir fertig? – Vorhersagen ohne Schätzen"
@@ -46,47 +57,128 @@ talks:
     location: "Munich, Germany"
     date: "2025-03-07"
     description: "Basics of statistical forecasting for product delivery."
-    link: "/assets/slides/LeanForecasting.pdf"
+    slides: "/assets/slides/LeanForecasting.pdf"
   - title: "Von Mitläufern zu Mitdenkern – Kultur der Business Agilität"
     event: "Solutions:Essentials 2024"
     location: "Hamburg, Germany"
     date: "2024-07-05"
     description: "How leadership influences business capabilities."
-    link: "/assets/slides/BusinessAgility.pdf"
+    slides: "/assets/slides/BusinessAgility.pdf"
   - title: "Aufräumen mit OKR – Eine Einführung in die Methode"
     event: "OKR Day 2024"
     location: "Online"
     date: "2024-02-29"
     description: "An introduction to OKR."
-    link: "/assets/slides/OkrIntroduction.pdf"
+    slides: "/assets/slides/OkrIntroduction.pdf"
+  - title: "Produktvision und OKR: wie aus potenziellen Kontrahenten eine wirkungsvolle Allianz wird"
+    event: "Product Owner Day 2023"
+    location: "Online"
+    date: "2023-09-23"
+    description: "Thoughts on combining OKR and visionary product management."
+    slides: "/assets/slides/OkrVision.pdf"   
   - title: "Von Napoleon zu OKR – Drei Ideen zu Alignment"
-    event: "OOP 2023"
+    event: "Tools 4 Agile Teams 2022"
+    location: "Online"
+    date: "2022-12-02"
+    description: "Lessons for today's leadership from the historic origins of OKR and mission command."
+    slides: "/assets/slides/OkrMissionCommand.pdf"
+    video: "https://www.youtube.com/watch?v=0H4QnQGC05M"
+  - title: "Reiß das Ruder rum - Von Gefolgsleuten zu Mitgestaltern (_with Ralf Lethmate_)"
+    event: "Agile Leader Day 2021"
+    location: "Online"
+    date: "2021-06-24"
+    description: "Getting to leadership on all levels, with core ideas from L. David Marquet."
+    slides: "/assets/slides/Leadership3K.pdf"    
+  - title: "Nein-Sagen für Product Owner _(with Stefan Roock)_"
+    event: "OOP 2021"
     location: "Munich, Germany"
-    date: "2023-07-04"
-    description: "Historic origins of OKR and Mission Command, lessons for today's leadership."
-    link: "/assets/slides/OkrMissionCommand.pdf"
-  - title: "eXtreme Programming – Ein Rückblick"
+    date: "2021-01-22"
+    description: "Why denying requests is a core skill for product managers, leading to better products and more satisfied stakeholders."
+    slides: "/assets/slides/SayNo.pdf"
+  - title: "Shades of Scrum – Was Scrum in Unternehmen alles kann _(with Stefan Roock)_"
+    event: "SEACON 2015"
+    location: "Hamburg, Germany"
+    date: "2015-05-07"
+    description: "A report on variants of Scrum beyond the Scrum Guide."
+    slides: "/assets/slides/ShadesScrum.pdf"
+  - title: "eXtreme Programming – Ein Rückblick _(with Holger Bohlmann)_"
     event: "Berlin Days of Software Engineering 2013"
     location: "Berlin, Germany"
     date: "2013-09-27"
-    description: "Reflections on eXtreme Programming, 15 years later. (with Holger Bohlmann)"
-    link: "/assets/slides/XP.pdf"
+    description: "Reflections on eXtreme Programming, 15 years later."
+    slides: "/assets/slides/XP.pdf"
     
-
-    # Atlassian UG OKR
-    # # Folien zum Vortrag "Nen-Sagen für Product Owner" von Urs Reupke und Stefan Roock von der OOP-Konferenz in München am 22.01.2019. Roadmaps ...
-    # Leadership Day: Vision OKR
-    # Ralf & Urs PO Day
-# Agile Leader Day
-# Die Online-Konferenz von Heise – 24. Juni 2021
-# Reiß das Ruder rum – Von Gefolgsleuten zu Mitgestaltern
-# Ralf Lethmate & Urs Reupke  
-    # T4AT
-
-    # Shades of Scrum (Urs Reupke, Stefan Roock), SEACON 2015 in Hamburg
-
-    ## Podcasts
-   #  Team Alignment mit OKR - Urs Reupk YouTube · Richard Seidl
-# 3 Jan 2024 - 
-# https://www.projectmanagement.com/blog-post/55063/The-Core-Cycle-of-Agile-Product-Development-w--Urs-Reupke
-# https://www.youtube.com/watch?v=jYzw8B_KYuQ&themeRefresh=1
+shows:
+  - title: "Mit OKR endlich leichtgewichtig starten"
+    series: "Lösung gefällig?"
+    host: "Wolf-Gideon Bleek"
+    date: 2025-03-11
+    description: "Introducing objectives and key results."
+    video: "https://youtu.be/q5HNeSX05fQ"
+  - title: "Veränderung mit iterativem Prozess begegnen"
+    series: "Lösung gefällig?"
+    host: "Wolf-Gideon Bleek"
+    date: 2025-02-10
+    description: "How to plan traditional long running projects iteratively."
+    video: "https://youtu.be/9NzI61wI2kM"
+  - title: "Lean Forecasting"
+    series: "Lösung gefällig?"
+    host: "Wolf-Gideon Bleek"
+    date: 2025-01-13
+    description: "How to predict completion times using statistics."
+    video: "https://youtu.be/jYzw8B_KYuQ"
+  - title: "OKRs und Scrum sinnvoll miteinander verbinden"
+    series: "Die Produktwerker"
+    host: "Oliver Winter"
+    date: 2025-01-07
+    description: Oliver invited me to his show to learn about OKR and what OKR means for Scrum. Also, celebrating my new book on OKR.
+    link: "https://produktwerker.de/okrs-und-scrum-sinnvoll-miteinander-verbinden/"
+  - title: "Herausforderungen der Energiebranche"
+    series: "it-agile Energy series"
+    host: "Claudia Reitenbach & Urs Reupke"
+    date: 2025-01-06
+    description: "A long form discussion on current organizational challenges facing German utilities."
+    video: "https://youtu.be/tYHZQ1-cYuY"
+  - title: "Ziele setzen"
+    series: "Lösung gefällig?"
+    host: "Wolf-Gideon Bleek"
+    date: 2024-11-04
+    description: "How changing markets impact German utilities, and what OKR, mission command and service design can do to help."
+    video: "https://youtu.be/EnrbqvtvCsM"
+  - title: "Visionäre Produkte"
+    series: "it-agile Summer of Product 2024"
+    host: "Markus Gärtner & Urs Reupke"
+    date: 2024-08-08
+    description: "How to build a compelling product vision."
+    video: "https://youtu.be/5fsCcr0UVE4"
+  - title: "Produkte für Menschen"
+    series: "it-agile Summer of Product 2024"
+    host: "Urs Reupke"
+    date: 2024-07-12
+    description: "Building user-centered products."
+    video: "https://youtu.be/H_p2gWGeOBg"
+  - title: "Bessere Produkte durch wirkungsfokussierte Planung"
+    series: "it-agile Summer of Product 2024"
+    host: "Urs Reupke"
+    date: 2024-06-27
+    description: "Planning tools to put outcome over output."
+    video: "https://youtu.be/vBYuklmB5SM"
+  - title: "Team Alignment mit OKR"
+    series: "Software Testing Podcast"
+    host: "Richard Seidl"
+    date: "2023-06-11"
+    description: "At OOP 2023, Richard and I spoke about the core ideas of objectives & key results and how they apply to software teams."
+    link: "https://www.richard-seidl.com/en/blog/team-alignment-okr"
+    video: "https://www.youtube.com/watch?v=jYzw8B_KYuQ"
+  - title: "The core cycle of agile product development"
+    series: "Drunken PM Radio"
+    host: "Dave Prior"
+    date: "2019-07-19"
+    description: "Dave invited me to his show to learn more about the core cycle of product development and how it pertains to agile."
+    link: "https://www.projectmanagement.com/blog-post/55063/the-core-cycle-of-agile-product-development-w--urs-reupke#_=_"
+  - title: "Scrum & agile workflow"
+    series: "zFace"
+    host: "Denis Zelchenok"
+    date: "2017-11-15"
+    description: "An interview on many things Scrum, ranging from org-level implementation to team-level challenges."
+    video: https://www.youtube.com/watch?v=_yE7egm56XA 
