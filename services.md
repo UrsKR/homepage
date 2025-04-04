@@ -32,3 +32,5 @@ I enable organizations to build and deliver impactful products:
 * **Agile Product Development:** Implementing agile practices to accelerate product development, improve quality, and enhance responsiveness to change.
 
 My services are designed to empower organizations to achieve their strategic goals, cultivate strong leaders, and deliver products that delight customers and drive business success.
+
+[Get in touch](/about) if you would like to know more.
