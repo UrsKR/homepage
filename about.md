@@ -4,16 +4,17 @@ title: About Me
 permalink: /about/
 ---
 
-My name is Urs, and I live in Hamburg, Germany.  
+I am Urs, and I live in Hamburg, Germany.  
 
-An engineer by education, an agilist by conviction and a consultant by
-choice, I work with clients’ leadership to improve their strategic decision
-making, communication and work processes.  
+With a background in engineering, a passion for agile methodologies, and a career dedicated to consulting, I help client leadership teams optimize their strategic decision-making, communication, and work processes.
+I approach things rationally, data-driven and systems-oriented.
 
-I approach things rationally, data-driven and systems-oriented. My interests range from the finer points of language and their implications to photography and [chinese martial arts](http://centre-qigong-hamburg.de) – all off which have taught me useful things for leadership and strategy, as have my beautiful wife and daughter.  
+My interests range from the nuances of language and their implications for collaboration to the art of photography and the discipline of [Chinese martial arts](http://centre-qigong-hamburg.de). In fact, I've been teaching martial arts since 2013, an experience that has significantly shaped my understanding of leadership and strategy. I you ever are around and would like to practice together, let me know!
 
-Currently, I am a partner and strategic consultant at it-agile in Hamburg, Germany, serving clients all over Europe.
+I'm also an avid gamer, enjoying the immersive worlds and strategic challenges of video games, as well as the camaraderie and competition of various other types of games.
+
+Currently, I'm a partner and strategic consultant at it-agile in Hamburg, Germany, where I have the privilege of serving clients across Europe.
 
 ### Contact
-If you would like to contact me, I would love to hear from you.
-Please write me an email using my gmail.com account, where my address is my first and last name. 
+I love getting mail, so please feel free to reach out via:   
+my first and last name at gmail.com (for a total of 19 characters).
