@@ -45,6 +45,7 @@ Use [Brain-Writing](http://www.kstoolkit.org/Brain+Writing):
 
 ### Illustrated
 ![One-Pagers illustrated](/assets/images/onepagers.jpg)
+_The illustrated result._
 
 ### Final remarks
 I learned about this technique in [Martin Heider](https://twitter.com/martinheider)'s workshop at [play4agile 2014](http://play4agile.wordpress.com/). Thanks, Martin!  
