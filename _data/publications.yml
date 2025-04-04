@@ -125,6 +125,13 @@ talks:
     date: "2024-07-05"
     description: "How leadership influences business capabilities."
     slides: "/assets/slides/BusinessAgility.pdf"
+  - title: "When will it be done? – An alternative to estimates"
+    event: "Scrum Alliance webinar series"
+    location: "Online"
+    date: "2024-03-21"
+    description: "Basics of statistical forecasting for product deliver. In English."
+    slides: "/assets/slides/LeanForecastingEngSA.pdf"
+    video: https://www.youtube.com/watch?v=KNaxlqZuud8
   - title: "Aufräumen mit OKR – Eine Einführung in die Methode"
     event: "OKR Day 2024"
     location: "Online"
