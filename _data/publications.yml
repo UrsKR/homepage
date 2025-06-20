@@ -22,6 +22,13 @@ books:
     summary: "Essays on Scrum and organisations. Some actionable, some philosophical."
 
 articles:
+  - title: "19+1 Fragen über OKR"
+    author: "Urs Reupke"
+    publication: "agile review"
+    year: 2025
+    issue: 1
+    link: "/assets/articles/FragenOKR.pdf"
+    abstract: "A best of article of sorts, answering common questions on OKR."  
   - title: "Strategisches Alignment – klassisch oder modern?"
     author: "Urs Reupke"
     publication: "agile review"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Punkt, Punkt, Komma, Strich
-date:   2015-08-10 18:44 +0200
+date:   2015-10-08 18:44 +0200
 categories: language grammar german
 ---
 Heute habe ich mich mit meiner Kollegin [Anna Lorenz](https://twitter.com/roadranna) über Daten und Punkte am Satzende unterhalten. Wieviele sind es? Und wann? Ein Ausflug in die Interpunktion.  
