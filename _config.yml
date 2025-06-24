@@ -8,8 +8,8 @@ title: Home
 email: ursreupke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Facts and speculation about and by Urs.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://urskr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/homepage" # the subpath of your site, e.g. /blog
 github_username:  urskr
 linkedin_username: urs-reupke
 # youtube_username: UrsReupke
