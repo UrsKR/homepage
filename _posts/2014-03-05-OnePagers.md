@@ -44,7 +44,7 @@ Use [Brain-Writing](http://www.kstoolkit.org/Brain+Writing):
 
 
 ### Illustrated
-![One-Pagers illustrated](/assets/images/onepagers.jpg)
+<img src="{{ site.baseurl }}/assets/images/onepagers.png">
 _The illustrated result._
 
 ### Final remarks
