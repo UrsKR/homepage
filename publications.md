@@ -7,9 +7,11 @@ permalink: /publications/
 I write and speak on matters organizational. Also, I love translating books that more people should read.
 Most publications are connected to my core interest in strategy implementation, but matters have shifted over time. Here is a list.
 
+[Books](#books) – [Articles](#articles) – [Talks](#talks) – [Shows](#shows)
+
 Would you like me to speak at your conference or user group? I would love to contribute. 
 
-### Books
+### Books <a name="books"></a>
 Books I have written or contributed to.
 
 {% for book in site.data.publications.books %}
@@ -22,7 +24,7 @@ ISBN: {{ book.isbn }}
 
 {% endfor %}
   
-### Articles & Papers
+### Articles & Papers <a name="articles"></a>
 Articles published in journals, magazines, and online publications.
 
 {% for article in site.data.publications.articles %}
@@ -34,7 +36,7 @@ _{{ article.author }}_
 
 {% endfor %}
 
-### Talks
+### Talks <a name="talks"></a>
 Conference talks I held publicly. Most were given multiple times, this list has only the first showing. 
 
 {% for talk in site.data.publications.talks %}
@@ -44,7 +46,7 @@ _{{ talk.event }}_ – _{{ talk.location }}_ – _{{ talk.date }}_
   
 {% endfor %}
 
-### Interviews, Podcasts etc.
+### Interviews, Podcasts etc. <a name="shows"></a>
 Listen! Watch!  
 
 {% for show in site.data.publications.shows %}
