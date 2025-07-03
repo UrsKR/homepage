@@ -1,7 +1,7 @@
 ---
 title:  Von Wirren zur Vision
 date:   2022-12-05 09:00 +0200
-categories: vison language german
+categories: vison language leadership german
 ---
 
 Via [Sabrina Spiegel](https://spiegel.coach) erreicht mich eine Unternehmensvision, von der (so höre ich) ihre Schöpfer sagen, dass sie schwer zu verstehen ist. Ich habe am Wochenende aus Spaß an der Freude einen Moment daran gebastelt. Ich habe mit der Sprache experimentiert und etwas gelernt.  
