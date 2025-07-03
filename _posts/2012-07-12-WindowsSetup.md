@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Windows Setup, Summer 2012 edition
 date:   2012-07-12 22:24 +0200
 categories: git software windows infrastructure

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Body-scanner estimation
 date:   2015-09-07 22:48 +0200
 categories: estimation agileundivided

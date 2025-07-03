@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Review of "Functional Principles for Object-Oriented Development"
 date:   2016-05-10 18:49 +0200
 categories: code java software craftmanship

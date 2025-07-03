@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Interview with zFace"
 date:   2017-06-17 10:19:22 +0200
 categories: interview notes

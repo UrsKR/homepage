@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  A case against hierarchy
 date:   2014-03-09 22:16 +0200
 categories: china agileundivided management book

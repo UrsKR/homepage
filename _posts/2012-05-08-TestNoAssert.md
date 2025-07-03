@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Ein Test ohne Assert
 date:   2012-05-08 23:23 +0200
 categories: testing german

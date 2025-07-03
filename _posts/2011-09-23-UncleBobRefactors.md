@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Uncle Bob refactors with IntelliJ IDEA
 date:   2011-09-23 18:08:00 +0200
 categories: technical refactoring UncleBob IDEA

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Punkt, Punkt, Komma, Strich
 date:   2015-10-08 18:44 +0200
 categories: language grammar german

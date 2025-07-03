@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Writing and Talks
 permalink: /publications/
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Teams R SEXI
 date:   2016-02-08 11:24 +0200
 categories: organization scrum team improvement

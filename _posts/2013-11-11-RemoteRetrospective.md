@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Retrospektiven über Distanz
 date:   2013-11-11 19:28 +0200
 categories: coaching agileundivided

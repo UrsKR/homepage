@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Respite and trust in time boxes
 date:   2014-03-23 12:11 +0200
 categories: german etymology scrum language

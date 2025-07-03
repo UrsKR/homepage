@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  I like Java 8 streams
 date:   2014-04-22 21:38 +0200
 categories: java code

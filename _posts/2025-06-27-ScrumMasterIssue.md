@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Wirtschaftliche Scrum Master
 date:   2025-06-25 09:27 +0200
 categories: german rant scrum agile

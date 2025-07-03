@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Antifr-Agil
 date:   2014-04-25 22:31 +0200
 categories: german teaser

@@ -5,25 +5,54 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Home
+name: Urs Reupke
 email: ursreupke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Facts and speculation about and by Urs.
-url: "https://urskr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/homepage" # the subpath of your site, e.g. /blog
+url: "https://urskr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  urskr
 linkedin_username: urs-reupke
 # youtube_username: UrsReupke
 
-# Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+
+site-locale: de-DE
+search: true
+lunr:
+  search_within_pages: true
+
+include: ["_pages"]
+
+footer:
+  links:
+    - label: "Impressum"
+      icon: "fa-solid fa-file-contract"
+      url: "/impressum"
+    - label: "Datenschutz"
+      icon: "fa-solid fa-shield"
+      url: "/ds"
 
 defaults:
-  - scope:
-      path: "assets/images"
+  - 
+    scope:
+      path: ""
+      type: posts
     values:
-      image: true
+      layout: single
+      author: "Urs"
+      author_profile: true
+      tagline: "" #else posts show their first line as tagline
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author: "Urs"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

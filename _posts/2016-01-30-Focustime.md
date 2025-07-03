@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Focus and focus time
 date:   2016-01-30 18:40 +0200
 categories: processimprovement scrummaster scrum retrospective agiledevelopment

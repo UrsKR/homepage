@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Varoufakis on Valve – Hire and Fire
 date:   2013-11-11 20:43 +0200
 categories: varoufakis german economics hiring valve

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  One-Pagers – A tool to quickly summarize any topic
 date:   2014-03-05 16:54:00 +0200
 categories: play4agile technique

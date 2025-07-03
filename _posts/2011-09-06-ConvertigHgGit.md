@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Converting hg to git on Windows
 date:   2011-09-06 18:06:00 +0200
 categories: technical infrastructure git mercurial windows

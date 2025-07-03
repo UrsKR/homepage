@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Der agile Entdecker
 date:   2014-03-25 21:58 +0200
 categories: german teaser book scrum coaching

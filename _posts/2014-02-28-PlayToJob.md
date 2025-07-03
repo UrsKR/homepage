@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Play to get a job
 date:   2014-02-28 09:11 +0200
 categories: hiring social

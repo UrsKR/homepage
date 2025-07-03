@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Renaming at github
 date:   2011-11-17 09:01 +0200
 categories: technical git

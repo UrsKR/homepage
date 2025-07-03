@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "19+1 questions on OKR"
 date: 2025-05-04 19:35 +200
 categories: article german

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Agilität und Effizienz
 date:   2017-01-30 19:33 +0200
 categories: german efficiency agileundivided insights processimprovement
