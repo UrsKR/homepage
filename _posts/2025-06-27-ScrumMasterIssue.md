@@ -22,4 +22,4 @@ Das ist die Sprache, die Manager verstehen. Welche Leistungssteigerung bewirkt e
 So müssen wir denken, handeln und sprechen, um die Rolle zu rechtfertigen.
 Dazu ist es nicht zu spät.
 
-(x-post [LinkedIn](https://www.linkedin.com/posts/urs-reupke_hot-take-dass-sich-gerade-viele-scrum-master-activity-7344283645253218304-ixJr)
+(x-post [LinkedIn](https://www.linkedin.com/posts/urs-reupke_hot-take-dass-sich-gerade-viele-scrum-master-activity-7344283645253218304-ixJr))
