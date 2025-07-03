@@ -7,10 +7,12 @@
 (A) Custom Domain
 (C) Recipes link
 (C) Qi Kung link
-(D) Command by negation
 (D) linkedin
+(D) Relevante Posts von LI kopieren?
 (D) Love teaching and workshopping
-(D) Love gaming
+(C) Include book reviews from Amazon, Goodreads, Agile Review
+(D) Command by negation {cm:2025-07-03}
+(D) Love gaming {cm:2025-07-03}
 (A) About {cm:2025-04-02}
 (C) LinkedIn in Footer {cm:2025-04-03}
 (A) Publications: Formatting {cm:2025-04-03}

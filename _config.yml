@@ -9,8 +9,8 @@ name: Urs Reupke
 email: ursreupke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Facts and speculation about and by Urs.
-baseurl: "/homepage" # the subpath of your site, e.g. /blog
-url: "https://urskr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://reupke.online" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  urskr
 linkedin_username: urs-reupke
 # youtube_username: UrsReupke
@@ -32,9 +32,9 @@ footer:
     - label: "Impressum"
       icon: "fa-solid fa-file-contract"
       url: "/impressum"
-    - label: "Datenschutz"
-      icon: "fa-solid fa-shield"
-      url: "/ds"
+#    - label: "Datenschutz"
+#      icon: "fa-solid fa-shield"
+#      url: "/ds"
 
 defaults:
   - 
