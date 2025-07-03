@@ -1,7 +1,7 @@
 ---
 title:  Command by negation
 date:   2021-12-21 18:05 +0200
-categories: china agileundivided management book
+categories: military marquet leadership execution german
 ---
 Bei meiner Nachmittagslektüre bin ich auf die Idee des “Führens durch Ablehnung” (Command by Negation) gestoßen.  
 Die Idee ist, Führungskräften innerhalb sehr weit gefasster Missionsparameter freie Hand über ihre Organisationseinheit zu lassen. Im Gegenzug meldet die FK größere Entscheidungen an eine zentrale Koordinationsstelle mit dem Vermerk, dass man die Entscheidung umsetzen wird "unodir” – unless otherwise directed. Die Reaktion darauf kann in Einzelfällen die namensgebende Ablehnung sein.  
