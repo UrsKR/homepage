@@ -5,12 +5,12 @@
 (A) Blog Page: Layout
 (B) Blog Page: Old content
 (A) Custom Domain
-(C) Recipes link
-(C) Qi Kung link
 (D) linkedin
 (D) Relevante Posts von LI kopieren?
 (D) Love teaching and workshopping
 (C) Include book reviews from Amazon, Goodreads, Agile Review
+(C) Qi Kung link {cm:2025-07-04}
+(C) Recipes link {cm:2025-07-04}
 (D) Command by negation {cm:2025-07-03}
 (D) Love gaming {cm:2025-07-03}
 (A) About {cm:2025-04-02}

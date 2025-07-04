@@ -8,7 +8,7 @@ I am Urs, and I live in Hamburg, Germany.
 With a background in engineering, a passion for agile methodologies, and a career dedicated to consulting, I help client leadership teams optimize their strategic decision-making, communication, and work processes.
 I approach things rationally, data-driven and systems-oriented.
 
-My personal interests range from the nuances of language and their implications for collaboration to the art of photography and the discipline of [Chinese martial arts](http://centre-qigong-hamburg.de). In fact, I've been teaching martial arts since 2013, an experience that has significantly shaped my understanding of leadership and strategy. I you ever are around and would like to practice together, let me know!
+My personal interests range from the nuances of language and their implications for collaboration to the art of photography and the discipline of [Chinese martial arts](http://centre-qigong-hamburg.de). In fact, I've been teaching martial arts since 2013, an experience that has significantly shaped my understanding of leadership and strategy. I you ever are around and would like to practice together, let me know! Also, I love collecting [cooking recipes](https://recipes.reupke.online).
 
 I'm also an avid gamer, enjoying the immersive worlds and strategic challenges of video games, as well as the camaraderie and competition of board, card, pen & paper.
 
