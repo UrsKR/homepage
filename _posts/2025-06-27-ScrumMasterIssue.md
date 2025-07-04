@@ -4,8 +4,8 @@ date:   2025-06-25 09:27 +0200
 categories: german rant scrum agile
 ---
 Felix Stein denkt auf [LinkedIn](https://www.linkedin.com/posts/felixstein_hot-take-dass-sich-gerade-viele-scrum-master-activity-7344252337646936064-S7rw), darüber nach, ob Scrum Master (zu) technikfern geworden sind und sich deswegen in Richtung KI orientieren.
-My 2 cents.
---- 
+My 2 cents.  
+---  
 Dass Scrum Master technikfern sind, war nie das Problem, und KI ist nicht die Lösung.
 
 Das Problem war (und ist), dass Scrum Master sich als managementfeindliche Teamkuschler:innen positioniert haben, anstatt ihre wertstiftende Rolle in gewinnorientierten Wirtschaftsunternehmen herauszuarbeiten.
