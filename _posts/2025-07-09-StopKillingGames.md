@@ -42,16 +42,19 @@ This is just another move in a game that's been going on since corporations disc
 https://chokepointcapitalism.com/
 
 But still, a (more) public discussion around this, expert hearings and a legislative process in the EU parliament would lead to some results, even though it might not be the perfect result people might imagine.  
-Of course, those expert hearings will be lots of managerial types from all major publishers repeating that "this isn't possible and games in general / in Europe would die, and can't someone think of the smaller companies?", expanding on what they already stated.
+Of course, those expert hearings will be lots of managerial types from all major publishers repeating that "this isn't possible and games in general / in Europe would die, and can't someone think of the smaller companies?", expanding on what they already stated.  
+It is up to the counterparties to guide lawmakers to a more enlightened stance. Obviously, games have long been running without involvement of anyone but the player(s). This is not lost technology, but very much possible. Less convenient for the gaming layman, less insightful for the ever hungry data sink that is the publisher, but still: possible.
 
-Personally, I'd be satisfied with fully functional code and all required build tools with no further commercial dependencies or requirements being opensourced no later than a month after server shutdown and leaving the rest to the people who care. For most people, the game would be gone, but for enthusiasts and archivists, everything would be preserved.  
+What may a way forward for discontinued games look like? 
+In a perfect world, publishers would open source the fully functional code and all required build tools with no further commercial dependencies or requirements after server shutdown and leaving the rest to the people who care. For most people, the game would be gone, but for enthusiasts and archivists, everything would be preserved.  
 In essence, given a community initiative picks up the slack, any game given this treatment should remain playable on any system it originally ran on.
 
 This is not what the initiative is about, though:
 > The initiative does not seek to acquire ownership of said videogames, associated intellectual rights or monetization rights, neither does it expect the publisher to provide resources for the said videogame once they discontinue it while leaving it in a reasonably functional (playable) state." 
 
-But is there any other way? I can't see how it can work out.
-Any server will cost money, any patch will cost money, and even keeping people's Steam/EGS/Origin saves and achievements functional would be too high a requirement, I guess.
+So a close second would be to share all the binaries involved in running all parts of the game and publishing a final patch to make a choice of community-run servers possible to players, the way multiplayer worked since time immemorial.
+
+Any thing else? Hardly imaginable. Any server will cost money, any patch will cost money, and even keeping people's Steam/EGS/Origin saves and achievements functional would be too high a requirement.
 
 A big unanswered question is about temporary media and asset licenses, like radio songs in GTA or car models in a racing game. For the archivist, removing them would be unacceptable, whereas for the enthusiast, it might be fine as long as the core experience remains playable.
 
