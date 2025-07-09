@@ -16,4 +16,4 @@ Currently, I'm a partner and strategic consultant at it-agile in Hamburg, German
 
 ### Contact
 I love getting mail, so please feel free to reach out via:   
-my first and last name at gmail.com (for a total of 19 characters).
+[ursreupke@gmail.com](mailto:ursreupke@gmail.com).
