@@ -5,12 +5,12 @@ categories: english thoughts gaming
 ---
 If you have a vague interest in gaming, I am quite sure you read about the initiative to "stop killing games".
 
-https://www.stopkillinggames.com/
+[https://www.stopkillinggames.com/](https://www.stopkillinggames.com/)
 
 In case you haven't, it is an European Citizen's Initiative (ECI), a people's initiative asking the European Commission to consider putting its requests into law if more than a million EU citizens sign it.  
 Even though the initiative reached the milestone of a million signatures recently, it still needs support – signatures may be invalid for a variety of reasons (bad data, non-EU citizens) or even fake. You might consider signing it.
 
-https://citizens-initiative.europa.eu/_en
+[https://citizens-initiative.europa.eu/](https://citizens-initiative.europa.eu/)
 
 So, Stop Killing Games.
 "Killing" here means shutting down game servers when it is no longer profitable for the publisher, effectively taking the means of play from the customer.   
@@ -22,24 +22,24 @@ For multiplayer parts, they should remain available without further publisher in
 
 > Specifically, the initiative seeks to prevent the remote disabling of videogames by the publishers, before providing reasonable means to continue functioning of said videogames without the involvement from the side of the publisher.
 
-https://eci.ec.europa.eu/045/public/#/screen/home
+[https://eci.ec.europa.eu/045/public/#/screen/home](https://eci.ec.europa.eu/045/public/#/screen/home)
 
 Needless to say, publishers are not happy. If you had a second look, you may also be aware of the games publisher's first reaction on its presumed passing.  
 Here's the money quote:  
 > Private servers are not always a viable alternative option for players as the protections we put in place to secure players’ data, remove illegal content, and combat unsafe community content would not exist and would leave rights holders liable. In addition, many titles are designed from the ground-up to be online-only; in effect, these proposals would curtail developer choice by making these video games prohibitively expensive to create.
 
-https://www.videogameseurope.eu/news/statement-on-stop-killing-games/
+[https://www.videogameseurope.eu/news/statement-on-stop-killing-games/](https://www.videogameseurope.eu/news/statement-on-stop-killing-games/)
 
 Essentially, it's the Apple defense. "Customers prefer our usuriously expensive repair service over third parties, because, safety."
 I venture that none of this is true, down to the very last sentence. For most people, the game would be dead and they wouldn't care. For enthusiasts, there should be a way.
 
 Shots have already been fired, with Ubisoft changing its End User License Agreement to force customers to delete games upon termination of service, making it a least a violation of contract to set up a game server of your own(as you wouldn't be allowed to have any client software).
 
-https://gamerant.com/ubisoft-eula-change-game-deletion-user-requirement/
+[https://gamerant.com/ubisoft-eula-change-game-deletion-user-requirement/](https://gamerant.com/ubisoft-eula-change-game-deletion-user-requirement/)
 
 This is just another move in a game that's been going on since corporations discovered technology, and it must not stand. Rebbeca Giblin and Cory Doctorow have written a whole book about all the ways this fight has been fought be creatives and consumers alike:
 
-https://chokepointcapitalism.com/
+[https://chokepointcapitalism.com/](https://chokepointcapitalism.com/)
 
 But still, a (more) public discussion around this, expert hearings and a legislative process in the EU parliament would lead to some results, even though it might not be the perfect result people might imagine.  
 Of course, those expert hearings will be lots of managerial types from all major publishers repeating that "this isn't possible and games in general / in Europe would die, and can't someone think of the smaller companies?", expanding on what they already stated.  
