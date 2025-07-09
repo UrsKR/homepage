@@ -1,7 +1,7 @@
 ---
 title:  Stop Killing Games and what follows
 date:   2025-07-09 20:45 +0200
-categories: english thoughts gaming
+tags: english thoughts policy gaming
 ---
 If you have a vague interest in gaming, I am quite sure you read about the initiative to "stop killing games".
 
