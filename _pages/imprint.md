@@ -1,6 +1,6 @@
 ---
 title: Impressum
-permalink: /impressum/
+permalink: /imprint/
 ---
 ### Angaben gemäß § 5 TMG:
 Urs Reupke, Eidelstedter Weg 27, 25469 Halstenbek

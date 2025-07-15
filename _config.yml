@@ -29,7 +29,7 @@ include: ["_pages"]
 
 footer:
   links:
-    - label: "Impressum"
+    - label: "Imprint"
       icon: "fa-solid fa-file-contract"
       url: "/impressum"
     - label: "LinkedIn"
@@ -41,9 +41,9 @@ footer:
     - label: "Work"
       icon: "fa fa-briefcase"
       url: "https://it-agile.de/urs"
-#    - label: "Datenschutz"
-#      icon: "fa-solid fa-shield"
-#      url: "/ds"
+    - label: "Privacy"
+      icon: "fa-solid fa-shield"
+      url: "/privacy"
 
 defaults:
   - 
