@@ -31,7 +31,7 @@ footer:
   links:
     - label: "Imprint"
       icon: "fa-solid fa-file-contract"
-      url: "/impressum"
+      url: "/imprint"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://linkedin.com/in/urs-reupke"
