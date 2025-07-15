@@ -8,7 +8,7 @@ title: Home
 name: Urs Reupke
 email: ursreupke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Facts and speculation about and by Urs.
+  Politics, Policy, Language & Leadership.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://reupke.online" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  urskr
@@ -32,6 +32,15 @@ footer:
     - label: "Impressum"
       icon: "fa-solid fa-file-contract"
       url: "/impressum"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
+      url: "https://linkedin.com/in/urs-reupke"
+    - label: "Steam"
+      icon: "fa-brands fa-steam"
+      url: "https://steamcommunity.com/id/urskr"
+    - label: "Work"
+      icon: "fa fa-briefcase"
+      url: "https://it-agile.de/urs"
 #    - label: "Datenschutz"
 #      icon: "fa-solid fa-shield"
 #      url: "/ds"
