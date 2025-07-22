@@ -2,7 +2,12 @@
 title:  Stop Killing Games and what follows
 date:   2025-07-09 20:45 +0200
 tags: english thoughts policy gaming
+last_modified_at: 2025-07-22 09:30 +0200
 ---
+Update: Eurogamer.net points out that the European Citizens' Initiative is called "Stop Destroying Videogames", whereas "Stop Killing Games" is the US equivalent.
+
+---
+Original Post follows:  
 If you have a vague interest in gaming, I am quite sure you read about the initiative to "stop killing games".
 
 [https://www.stopkillinggames.com/](https://www.stopkillinggames.com/)
@@ -10,7 +15,7 @@ If you have a vague interest in gaming, I am quite sure you read about the initi
 In case you haven't, it is an European Citizen's Initiative (ECI), a people's initiative asking the European Commission to consider putting its requests into law if more than a million EU citizens sign it.  
 Even though the initiative reached the milestone of a million signatures recently, it still needs support – signatures may be invalid for a variety of reasons (bad data, non-EU citizens) or even fake. You might consider signing it.
 
-[https://citizens-initiative.europa.eu/](https://citizens-initiative.europa.eu/)
+[https://citizens-initiative.europa.eu/initiatives/details/2024/000007_en][(https://citizens-initiative.europa.eu/](https://citizens-initiative.europa.eu/initiatives/details/2024/000007_en))
 
 So, Stop Killing Games.  
 "Killing" here means shutting down game servers when it is no longer profitable for the publisher, effectively taking the means of play from the customer.   
