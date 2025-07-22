@@ -4,10 +4,15 @@ date:   2025-07-09 20:45 +0200
 tags: english thoughts policy gaming
 last_modified_at: 2025-07-22 09:30 +0200
 ---
-Update: Eurogamer.net points out that the European Citizens' Initiative is called "Stop Destroying Videogames", whereas "Stop Killing Games" is the US equivalent.
+**Correction**:  
+Eurogamer.net points out that the European Citizens' Initiative is called "Stop Destroying Videogames", whereas "Stop Killing Games" is the US equivalent.
+
+[https://www.eurogamer.net/stop-killing-games-says-industry-has-filed-false-claims-against-eu-campaign-as-it-surpasses-14m-signatures
+](
+https://www.eurogamer.net/stop-killing-games-says-industry-has-filed-false-claims-against-eu-campaign-as-it-surpasses-14m-signatures)
 
 ---
-Original Post follows:  
+**Original Post**:  
 If you have a vague interest in gaming, I am quite sure you read about the initiative to "stop killing games".
 
 [https://www.stopkillinggames.com/](https://www.stopkillinggames.com/)
