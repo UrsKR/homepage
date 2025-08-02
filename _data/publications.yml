@@ -184,6 +184,12 @@ talks:
     slides: "/assets/slides/XP.pdf"
     
 shows:
+  - title: "Watt nun (as host)"
+    series: "Watt nun – Der Podcast über die Lage im mittleren Management"
+    host: "Urs Reupke"
+    date: Spring 2025
+    description: "A show where I interview middle management about leadership and strategy."
+    link: "https://open.spotify.com/show/1tbcz7rodiUZtuPnxIzlU3?si=IGHWN-EXQPyj45ehemgsZw"
   - title: "Mit OKR endlich leichtgewichtig starten"
     series: "Lösung gefällig?"
     host: "Wolf-Gideon Bleek"
