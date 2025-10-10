@@ -1,7 +1,8 @@
 ---
 title:  Von Wirren zur Vision
 date:   2022-12-05 09:00 +0200
-categories: vison language leadership german
+categories: vision language leadership german
+last_modified_at: 2025-10-10 12:30 +0200
 ---
 
 Via [Sabrina Spiegel](https://spiegel.coach) erreicht mich eine Unternehmensvision, von der (so höre ich) ihre Schöpfer sagen, dass sie schwer zu verstehen ist. Ich habe am Wochenende aus Spaß an der Freude einen Moment daran gebastelt. Ich habe mit der Sprache experimentiert und etwas gelernt.  
@@ -35,8 +36,8 @@ Durch das Passiv wird verdeckt, wer handelt. Aktiv sagt, wer es ist.
 Dadurch bekennen wir Farbe bezüglich unserer Pläne und unserer Erwartungen an andere.  
 Ab hier haben unsere Änderungen auch Auswirkung auf den Inhalt. Dazu würde ich gern die Urheber befragen, aber die habe ich nicht zur Hand.  
 
-Wir sorgen dafür, dass <span style="color : green">wir und andere</span> Produkte und Dienstleistungen im Sinne der Bedürfnisse der Menschen, ihrer Ernährung und der Erhaltung der Erde und der Natur verwirklichen <span style="color : red">…</span>.  
-Das machen wir durch die Erstellung von Lösungen für konforme Software- und Hardwareentwicklung.
+> Wir sorgen dafür, dass <span style="color : green">wir und andere</span> Produkte und Dienstleistungen im Sinne der Bedürfnisse der Menschen, ihrer Ernährung und der Erhaltung der Erde und der Natur verwirklichen <span style="color : red">…</span>.  
+> Das machen wir durch die Erstellung von Lösungen für konforme Software- und Hardwareentwicklung.
 
 ## Streiche Redundanz
 Durch den Wandel von Passiv zu Aktiv wird Redundanz sichtbar. 
@@ -45,7 +46,7 @@ Durch den Wandel von Passiv zu Aktiv wird Redundanz sichtbar.
 
 Wofür wir bei uns selbst sorgen, das tun wir – jedenfalls im Sinne einer Vision. 
 
-> Wir <span style="color : red">…</span><span style="color : green"> verwirklichen </span><span style="color : red">…</span> Produkte und Dienstleistungen im Sinne der Bedürfnisse der Menschen, ihrer Ernährung und der Erhaltung der Erde und der Natur <span style="color : red">…</span> <span style="color : green">und sorgen dafür, dass es auch andere tun.</span>  
+> Wir <span style="color : red">…</span><span style="color : green"> verwirklichen </span><span style="color : red">…</span> Produkte und Dienstleistungen im Sinne der Bedürfnisse der Menschen, ihrer Ernährung und der Erhaltung der Erde und der Natur <span style="color : red">…</span> <span style="color : green">und sorgen dafür, dass es auch andere tun.</span>   
 > Das machen wir durch die Erstellung von Lösungen für konforme Software- und Hardwareentwicklung.
 
 ## Verwende kurze Wörter
@@ -66,7 +67,7 @@ Der erste Satz ist durch die Aufzählung noch immer lang. Dadurch bleiben Leser 
 Da Ernährung und Erhaltung der Erde Bedürfnisse der Menschen sind, erlauben wir uns eine Zusammenfassung. Außerdem ist die Erfüllung der Bedürfnisse der Menschen in deren Sinn – nochmal Redundanz.  
 Das ist eine größere Inhaltliche Änderung, die in einer Gruppe für viel Diskussion gesorgt hätte.
 
-> Wir bauen Produkte und Dienstleistungen im Sinne <span style="color : red">…</span> der Menschen <span style="color : red">…</span> und der Erde <span style="color : red">…</span> und sorgen dafür, dass es auch andere tun. 
+> Wir bauen Produkte und Dienstleistungen im Sinne <span style="color : red">…</span> der Menschen <span style="color : red">…</span> und der Erde <span style="color : red">…</span> und sorgen dafür, dass es auch andere tun.  
 > Dazu erstellen wir Lösungen für konforme Software- und Hardwareentwicklung.
 
 ## Sanity Check
