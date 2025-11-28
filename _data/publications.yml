@@ -120,6 +120,12 @@ articles:
     abstract: "A technical paper on context aware computer systems."
 
 talks:
+  - title: "OKR in Führungsteams"
+    event: "Agile leadership Conference 2025"
+    location: "Online"
+    date: "2025-11-27"
+    description: "Patterns for leaders to improve organizational efficiency in strategy deployment via OKR."
+    slides: "/assets/slides/OKRinFuehrungsteams.pdf"
   - title: "Wann werden wir fertig? – Vorhersagen ohne Schätzen"
     event: "OOP 2025"
     location: "Munich, Germany"
