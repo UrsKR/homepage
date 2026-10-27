@@ -1,5 +1,5 @@
 ---
-title: Sommerlektüre: Was John Stuart Mill uns über Führung lehrt
+title: Sommerlektüre – Was John Stuart Mill uns über Führung lehrt
 date:   2026-10-20 08:00 +0200
 tags: german liberalism liberty leadership agility
 ---
